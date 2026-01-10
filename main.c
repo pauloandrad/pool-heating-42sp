@@ -1,6 +1,11 @@
-#include "include/C00_output_looping.h"
+#include <stdio.h>
+#include <string.h>
+
+#include "include/C01_pointers_memory_access.h"
+#include "include/C02_string.h"
+#include "include/C03_string_memory.h"
 
 int main(void) {
-    ft_print_comb();
-    return 0;
+
+    return (0);
 }
