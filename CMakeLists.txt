@@ -11,4 +11,6 @@ add_executable(42SP main.c
         src/C02_string.c
         include/C03_string_memory.h
         src/C03_string_memory.c
+        include/C04_base_conversion.h
+        src/C04_base_conversion.c
 )

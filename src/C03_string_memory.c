@@ -2,7 +2,7 @@
 #include <string.h>
 
 
-char * ft_strncat(char *dest, char *src, unsigned int size) {
+char * ft_atoi(char *dest, char *src, unsigned int size) {
     int i;
     int j;
     i = 0;
